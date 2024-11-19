@@ -8,10 +8,10 @@ https://colab.research.google.com/drive/17QWaVNRZ3y_3Mprd8rHvcuWvUwCoWQwd?usp=sh
 It was modified by Tanisha Downer from the code at; https://www.geeksforgeeks.org/python-program-for-insertion-sort/
 # Linked Lists 
 https://colab.research.google.com/drive/1e9GaxU8x1EMcUCwMEZTHbdXKQLv2VMWn?usp=sharing
-Modified by Ronald Kiprono from the code at https://www.geeksforgeeks.org/python-linked-list/”
+It was modified by Ronald Kiprono from the code at https://www.geeksforgeeks.org/python-linked-list/”
 # Binary Tree
 https://drive.google.com/file/d/1ng9GljQNxQeAVpLzks7lpRRJhL3D8zbV/view?usp=sharing
-Developed by Brock Skelton from the pseudocode in:
+It was Developed by Brock Skelton from the pseudocode in:
 Kubica, J. (2020). Data structures the fun way: An amusing introduction to data structures. No Starch Press.”
 # Machine Learning 1 (Titanic) 
 “Kaggle runs a machine learning competition on the Titanic data: 
