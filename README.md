@@ -14,6 +14,7 @@ https://drive.google.com/file/d/1ng9GljQNxQeAVpLzks7lpRRJhL3D8zbV/view?usp=shari
 It was Developed by Brock Skelton from the pseudocode in:
 Kubica, J. (2020). Data structures the fun way: An amusing introduction to data structures. No Starch Press.”
 # Machine Learning 1 (Titanic) 
+https://colab.research.google.com/drive/1TWkLx8y4ZKy4bg2LutZjaM17iIaozRdf?usp=sharing
 “Kaggle runs a machine learning competition on the Titanic data: 
 https://www.kaggle.com/competitions/titanic
 This notebook is from Alexis Cook's Titanic Tutorial page: 
